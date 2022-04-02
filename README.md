@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**geminway92/geminway92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 [![Header](./images//Banner2.png)](https://gemamartin.netlify.app/)
 
 # Hello Word!👋
