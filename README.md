@@ -37,6 +37,13 @@ My name is Gema Martín and I'm a Frontend developer. I'm from Spain. You can fi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geminway92&repo=vue-journal-vuex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/geminway92/taperia-rondenia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geminway92&repo=taperia-rondenia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/geminway92/anec_events">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geminway92&repo=anec_events&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!-- links to social media icons -->
 
